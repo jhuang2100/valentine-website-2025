@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Lets go! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "You are without a doubt the best girlfriend in the world. I love you so much butt. Im so excited for you to open my gifts!",
+        message: "You are without a doubt the best girlfriend in the world. I love you so much butt. Im so excited for you to open my gifts! -Love, Jialin",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
